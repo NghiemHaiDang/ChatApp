@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "193449119323",
+    "project_id": "chat-app-54dbb",
+    "storage_bucket": "chat-app-54dbb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:193449119323:android:8cf1ae78a256f6fa09f97e",
+        "android_client_info": {
+          "package_name": "vn.edu.fpt.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "193449119323-r23fhgeu7gg1inafsdh0vkiac744rc09.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClDwgpgzlwDLOSkKbl_0b-s6vdyD-a-P0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "193449119323-r23fhgeu7gg1inafsdh0vkiac744rc09.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
